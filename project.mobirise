@@ -48,7 +48,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 20,
+    "uniqCompNum": 23,
     "versionPublish": "5.1.4",
     "publishChangesOnly": true,
     "screenshot": "screenshot.png"
@@ -1453,33 +1453,6 @@
         {
           "alias": false,
           "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".video-wrapper iframe": {
-              "width": "100%"
-            },
-            ".mbr-section-title, .mbr-section-subtitle, .mbr-text": {
-              "text-align": "center"
-            }
-          },
-          "_name": "video2",
-          "_customHTML": "<blockquote class=\"embedly-card\"><h4><a href=\"https://sketchfab.com/3d-models/prototipo-1-5d9bb82f39614850b781c4f69a8fb789\">Prototipo 1</a></h4><p>Prototipo 1 - 3D model by Bio Bond (@Bio_Bond) [5d9bb82]</p></blockquote>\r\n<script async src=\"//cdn.embedly.com/widgets/platform.js\" charset=\"UTF-8\"></script>",
-          "_cid": "shmhx02TlM",
-          "_anchor": "video2-j",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 1rem)",
               "padding-bottom": "(@paddingBottom * 1rem)"
@@ -1515,6 +1488,31 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".video-wrapper iframe": {
+              "width": "100%"
+            },
+            ".mbr-section-title, .mbr-section-subtitle, .mbr-text": {
+              "text-align": "center"
+            }
+          },
+          "_name": "video2",
+          "_customHTML": "[sketchfab]5d9bb82f39614850b781c4f69a8fb789[/sketchfab]\r\n    [url=https://sketchfab.com/3d-models/prototipo-1-5d9bb82f39614850b781c4f69a8fb789]Prototipo 1[/url] by [url=https://sketchfab.com/Bio_Bond]Bio Bond[/url] on [url=https://sketchfab.com]Sketchfab[/url]\r\n",
+          "_cid": "shmhx02TlM",
+          "_anchor": "video2-j",
+          "_protectedParams": [],
           "_params": {}
         },
         {
