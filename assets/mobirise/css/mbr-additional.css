@@ -1389,7 +1389,7 @@ img {
 }
 
 .cid-shjzzsiRLV {
-@idGallery: "shmgy7gHF4";
+@idGallery: "shmhzRQIlc";
 @fullWidth: false;
 @paddingTop: 3;
 @paddingBottom: 1;
@@ -1682,7 +1682,7 @@ H6 {
 }
 
 .cid-shjzy9dS3p {
-@idGallery: "shmgy8MG9Q";
+@idGallery: "shmhzTak29";
 @fullWidth: false;
 @paddingTop: 1;
 @paddingBottom: 0;
@@ -2023,7 +2023,7 @@ H6 {
 }
 
 .cid-shjB3jJH11 {
-@sliderId: "shmgyaWreo";
+@sliderId: "shmhzUy1ob";
 @fullWidth: false;
 @carouselHeight: 7;
 @paddingTop: 0;
@@ -2160,6 +2160,24 @@ background-color: @bgColor;
 }
 }
 
+.cid-shmhx02TlM {
+
+padding-top: (@paddingTop * 1rem);
+padding-bottom: (@paddingBottom * 1rem);
+& when (@bg-type = 'color') {
+  background-color: @bg-value;
+}
+& when (@bg-type = 'image') {
+  background-image: url(../../../@bg-value);
+}
+.video-wrapper iframe {
+  width: 100%;
+}
+.mbr-section-title, .mbr-section-subtitle, .mbr-text {
+  text-align: center;
+}
+}
+
 .cid-shjTvR3z6X {
 @fullScreen: false;
 @fullWidth: true;
@@ -2205,17 +2223,6 @@ background-color: @bgColor;
 .mbr-section-title {
   text-align: center;
   color: #ffffff;
-}
-}
-
-.cid-shm6AmoU1i {
-
-padding-top: (@paddingTop * 15px);
-padding-bottom: (@paddingBottom * 15px);
-background-color: @bgColor;
-.mbr-section {
-  text-align: center;
-  color: #fff;
 }
 }
 
