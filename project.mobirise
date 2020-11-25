@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-24_2059",
+    "name": "Site-11-24_2059-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -1485,27 +1485,6 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
           "_cid": "shjTvR3z6X",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": "deltapi-code-editor",
-          "_isSecondary": true,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-section": {
-              "text-align": "center",
-              "color": "#fff"
-            }
-          },
-          "_name": "custom-html",
-          "_customHTML": "<div class=\"sketchfab-embed-wrapper\">\r\n    <iframe title=\"A 3D model\" width=\"640\" height=\"480\" src=\"https://sketchfab.com/models/5d9bb82f39614850b781c4f69a8fb789/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1\" frameborder=\"0\" allow=\"autoplay; fullscreen; vr\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>\r\n    <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\">\r\n        <a href=\"https://sketchfab.com/3d-models/prototipo-1-5d9bb82f39614850b781c4f69a8fb789?utm_medium=embed&utm_source=website&utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Prototipo 1</a>\r\n        by <a href=\"https://sketchfab.com/Bio_Bond?utm_medium=embed&utm_source=website&utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Bio Bond</a>\r\n        on <a href=\"https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup\" target=\"_blank\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a>\r\n    </p>\r\n</div>\r\n",
-          "_cid": "shm6AmoU1i",
-          "_anchor": "custom-html-h",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
