@@ -1071,6 +1071,84 @@ a {
   text-align: center;
   color: #ffffff;
 }
+.cid-shjOVoamU0 {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #cff8fe;
+}
+.cid-shjOVoamU0 .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-shjOVoamU0 .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
+}
+.cid-shjOVoamU0 .mbr-text,
+.cid-shjOVoamU0 .mbr-section-btn {
+  text-align: left;
+}
+.cid-shjOVoamU0 .mbr-section-title {
+  text-align: left;
+  color: #000000;
+}
+.cid-shjNCllOtH {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #cff8fe;
+}
+@media (max-width: 991px) {
+  .cid-shjNCllOtH .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-shjNCllOtH .row {
+  flex-direction: row-reverse;
+}
+.cid-shjNCllOtH img {
+  width: 100%;
+}
+.cid-shjPkDI8Qi {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #cff8fe;
+}
+.cid-shjPkDI8Qi .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-shjPkDI8Qi .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
+}
+.cid-shjPkDI8Qi .mbr-text,
+.cid-shjPkDI8Qi .mbr-section-btn {
+  text-align: left;
+}
+.cid-shjPkDI8Qi .mbr-section-title {
+  text-align: left;
+  color: #000000;
+}
+.cid-shjNwVfo4I {
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+  background-color: #cff8fe;
+}
+@media (max-width: 991px) {
+  .cid-shjNwVfo4I .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-shjNwVfo4I .row {
+  flex-direction: row-reverse;
+}
+.cid-shjNwVfo4I img {
+  width: 100%;
+}
 .cid-shjzbhnEX3 {
   padding-top: 3rem;
   padding-bottom: 2rem;
@@ -1096,7 +1174,7 @@ a {
 }
 .cid-shjzzsiRLV {
   padding-top: 3rem;
-  padding-bottom: 6rem;
+  padding-bottom: 1rem;
   background-color: #c5ffe2;
 }
 .cid-shjzzsiRLV .item {
@@ -1851,4 +1929,20 @@ a {
 }
 .cid-shjxQKLx3r .mbr-section-subtitle {
   color: #ffffff;
+}
+.cid-shjOecgNu6 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #cff8fe;
+}
+@media (max-width: 991px) {
+  .cid-shjOecgNu6 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-shjOecgNu6 .row {
+  flex-direction: row-reverse;
+}
+.cid-shjOecgNu6 img {
+  width: 100%;
 }
