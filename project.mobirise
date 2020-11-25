@@ -48,7 +48,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "5.1.4",
     "publishChangesOnly": true,
     "screenshot": "screenshot.png"
@@ -1485,6 +1485,27 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
           "_cid": "shjTvR3z6X",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            }
+          },
+          "_name": "custom-html",
+          "_customHTML": "<blockquote class=\"embedly-card\"><h4><a href=\"https://p3d.in/QgVFd\">Prototipo1</a></h4><p>3D model on p3d.in</p></blockquote>\r\n<script async src=\"//cdn.embedly.com/widgets/platform.js\" charset=\"UTF-8\"></script>",
+          "_cid": "shmuXGNvBE",
+          "_anchor": "custom-html-o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
