@@ -48,7 +48,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "5.1.4",
     "publishChangesOnly": true,
     "screenshot": "screenshot.png"
@@ -1503,9 +1503,9 @@
             }
           },
           "_name": "custom-html",
-          "_customHTML": "<blockquote class=\"embedly-card\"><h4><a href=\"https://p3d.in/QgVFd\">Prototipo1</a></h4><p>3D model on p3d.in</p></blockquote>\r\n<script async src=\"//cdn.embedly.com/widgets/platform.js\" charset=\"UTF-8\"></script>",
-          "_cid": "shmuXGNvBE",
-          "_anchor": "custom-html-o",
+          "_customHTML": "<iframe allowfullscreen webkitallowfullscreen width=\"640\" height=\"480\" frameborder=\"0\" seamless src=\"https://p3d.in/e/QgVFd\"></iframe>",
+          "_cid": "shmvfzyBgA",
+          "_anchor": "custom-html-p",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
